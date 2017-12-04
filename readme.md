@@ -1,6 +1,6 @@
-##Personal Portfolio for Brian Reynolds##
+## Personal Portfolio for Brian Reynolds ##
 
-###Current Interests###
+### Current Interests ###
 Brian is beleive we muast all continuously learn to remain relevant. right now, he is learning about **Web Development** at **General Assembly**  so he can more effectively act on ideas and innovation opportunities.
 
 ### Experience ###
@@ -14,7 +14,7 @@ Brian has significant experience leading _Agile IT_ solution delivery teams, and
 
 He applies leading **Agile** and **Lean** practices to help teams improve business value throughput, reduce work-in-process, remove non-value adding activities, improve quality, and reduce IT delivery risk.
 
-###Professional qualifications and certifications###
+### Professional qualifications and certifications ###
 
 -Certified Six Sigma Black Belt (CSSBB), ASQ
 -Project Management Professional (PMP), PMI
@@ -31,12 +31,12 @@ He applies leading **Agile** and **Lean** practices to help teams improve busine
 -Certified Pro Foundations of DevOps, ICAgile
 -User Experience Design, General Assembly
 
-##Education##
+## Education ##
 -University of Virginia, Design Thinking Specialization
 -Stanford TechAM Executive Institute, Stanford University.
 -Master of Business Administration, Quantitative Methods concentration from the Mason School of Business, College of William and Mary.
 -Master of Information Systems, from the Volgenau School of IT and Engineering, George Mason University.
 -Bachelor of Business Administration in Computer Information Systems, Decision Support Systems concentration, at James Madison University.
 
-##Employment History##
+## Employment History ##
 Prior to his work at Grant Thornton, Brian was an Associate Partner at IBM’s Business Consulting Service and Senior Manager at PriceWaterhouseCoopers.
