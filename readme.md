@@ -16,27 +16,27 @@ He applies leading **Agile** and **Lean** practices to help teams improve busine
 
 ### Professional qualifications and certifications ###
 
--Certified Six Sigma Black Belt (CSSBB), ASQ
--Project Management Professional (PMP), PMI
--Program Management Professional (PgMP), PMI
--Agile Certified Professional (ACP), PMI
--Masters Certificate in Federal Acquisition Management (FAC-PPM 3)
--Certified Scaled Agile (SAFe) Program Consultant
--Certified ScrumMaster, Scrum Alliance
--Certified Scrum Product Owner, Scrum Alliance
--Certified Scrum Professional, Scrum Alliance
--Certified Managed Change Agent, LaMarsh Global
--ITILv3 Foundations Certified
--ICAgile Certified Professional, ICAgile
--Certified Pro Foundations of DevOps, ICAgile
--User Experience Design, General Assembly
+- Certified Six Sigma Black Belt (CSSBB), ASQ
+- Project Management Professional (PMP), PMI
+- Program Management Professional (PgMP), PMI
+- Agile Certified Professional (ACP), PMI
+- Masters Certificate in Federal Acquisition Management (FAC-PPM 3)
+- Certified Scaled Agile (SAFe) Program Consultant
+- Certified ScrumMaster, Scrum Alliance
+- Certified Scrum Product Owner, Scrum Alliance
+- Certified Scrum Professional, Scrum Alliance
+- Certified Managed Change Agent, LaMarsh Global
+- ITILv3 Foundations Certified
+- ICAgile Certified Professional, ICAgile
+- Certified Pro Foundations of DevOps, ICAgile
+- User Experience Design, General Assembly
 
 ## Education ##
--University of Virginia, Design Thinking Specialization
--Stanford TechAM Executive Institute, Stanford University.
--Master of Business Administration, Quantitative Methods concentration from the Mason School of Business, College of William and Mary.
--Master of Information Systems, from the Volgenau School of IT and Engineering, George Mason University.
--Bachelor of Business Administration in Computer Information Systems, Decision Support Systems concentration, at James Madison University.
+- University of Virginia, Design Thinking Specialization (in processa)
+- Stanford TechAM Executive Institute, Stanford University.
+- Master of Business Administration, Quantitative Methods concentration from the Mason School of Business, College of William and Mary.
+- Master of Information Systems, from the Volgenau School of IT and Engineering, George Mason University.
+- Bachelor of Business Administration in Computer Information Systems, Decision Support Systems concentration, at James Madison University.
 
 ## Employment History ##
 Prior to his work at Grant Thornton, Brian was an Associate Partner at IBM’s Business Consulting Service and Senior Manager at PriceWaterhouseCoopers.
