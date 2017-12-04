@@ -1,7 +1,7 @@
 ## Personal Portfolio for Brian Reynolds ##
 
 ### Current Interests ###
-Brian is beleive we muast all continuously learn to remain relevant. right now, he is learning about **Web Development** at **General Assembly**  so he can more effectively act on ideas and innovation opportunities.
+Brian is a continuous, life-long learner. Right now, he is learning about **Web Development** at **General Assembly**  so he can more effectively act on ideas and innovation opportunities.
 
 ### Experience ###
 Brian is a leader within Grant Thornton’s Agile, Digital, and user-centered design practice. He delivers user-centered design, Agile enablement, ideation, design thinking, and program management services to help clients improve Agile IT delivery processes and results.
